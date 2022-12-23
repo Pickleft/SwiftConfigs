@@ -1,0 +1,6 @@
+{
+  "UseProxy": false,
+  "ProxyFile": "proxies.txt",
+  "ProxyType": "H",
+  "Tries": 1
+}
